@@ -47,6 +47,8 @@ SYST10049 Web Development
 ### Character encoding revisited
 ![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/html04.png](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/html04.png)
 [https://www.w3schools.com/tags/ref_charactersets.asp](https://www.w3schools.com/tags/ref_charactersets.asp)
+[https://www.wikiwand.com/en/MIME](https://www.wikiwand.com/en/MIME)
+[https://www.wikiwand.com/en/Character_encoding](https://www.wikiwand.com/en/Character_encoding)
 
 ### 4. Dealing with Files
 > Where should your website live on your computer?  
