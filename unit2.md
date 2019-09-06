@@ -31,7 +31,7 @@ SYST10049 Web Development
 </html>
 ~~~
 ### 3. Common content organization
-example 1
+#### example 1
 ~~~html
 <body>
   <header><h1>page heading</h1></header>
@@ -41,10 +41,12 @@ example 1
   <footer><address>contact info</address></footer>
 </body>
 ~~~
-example 2
+#### example 2
 ![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/semElements.gif](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/semElements.gif)
 
-
+### Character encoding revisited
+![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/html04.png](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/html04.png)
+[https://www.w3schools.com/tags/ref_charactersets.asp](https://www.w3schools.com/tags/ref_charactersets.asp)
 
 ### 4. Dealing with Files
 > Where should your website live on your computer?  
