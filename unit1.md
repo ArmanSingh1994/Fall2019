@@ -116,7 +116,7 @@ For each of the following element, complete the tutorial on w3schools.  Note the
 		* pay close attention to values that can be assigned to the attributes; 
 		* are the attributes global or element-specific?
 		* add to your written code, as comments, all corrections and observations.
-		* reference and compare with EXAMPLE01_000, _001, _002,  in [Set 1 examples}(http://bajcar.dev.fast.sheridanc.on.ca/syst10049/gridCards_examples_01.html)
+		* reference and compare with EXAMPLE01_000, _001, _002,  in [Set 1 examples](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/gridCards_examples_01.html)
 
 
 ### Complete the following reading to dig deeper (enhance your notes)
