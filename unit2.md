@@ -52,7 +52,7 @@ example 2
 > What structure should your website have?  
 > File paths
 
-![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/pathnames.jpg](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/pathnames.jpg =600x)
+![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/pathnames.jpg](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/pathnames.jpg)
 
 
 ![http://bajcar.dev.fast.sheridanc.on.ca/syst10199/images/slides/file_naming.png](http://bajcar.dev.fast.sheridanc.on.ca/syst10199/images/slides/file_naming.png)
