@@ -128,7 +128,7 @@ Why do we need semantics?
 * add to your written code, as comments, all corrections and observations.
 ---
 
-#### C. Create your own version of EXAMPLE02_003 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/gridCards_examples_02.html))  in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
+#### C. Create your own version of EXAMPLE02_003 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_02.html))  in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
 -
 	 - [ ] start with minimal HTML5 document
 	 - [ ] copy the rendered content (right-hand side) into the body
@@ -142,13 +142,13 @@ Why do we need semantics?
 * are the attributes global or element-specific?
 * add to your written code, as comments, all corrections and observations.
 
-#### D. Create your own version of EXAMPLE02_004 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/gridCards_examples_02.html))   in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
+#### D. Create your own version of EXAMPLE02_004 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_02.html))   in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
 Follow the same routine as C.
 
-#### E. Create your own version of EXAMPLE02_005 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/gridCards_examples_02.html))   in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
+#### E. Create your own version of EXAMPLE02_005 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_02.html))   in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
 Follow the same routine as C.
 
-#### F. Create your own version of EXAMPLE02_009 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/gridCards_examples_02.html))   in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
+#### F. Create your own version of EXAMPLE02_009 ([Example Set 2](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_02.html))   in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
 Follow the same routine as C.
 
 ### Complete the following readings to dig deeper (enhance your notes)
@@ -166,8 +166,8 @@ Follow the same routine as C.
 
 ### Keep reading, exploring and cross-referencing
 * **Primary source** [https://www.w3.org/TR/html5/syntax.html](https://www.w3.org/TR/html5/syntax.html)
-* [HTML checklist](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/checklists/htmlSheet.html)
-* [CSS checklist](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/checklists/cssSheet.html)
+* [HTML checklist](http://bajcar.dev.fast.sheridanc.on.ca/we10049/checklists/htmlSheet.html)
+* [CSS checklist](http://bajcar.dev.fast.sheridanc.on.ca/web10049/checklists/cssSheet.html)
 
 
 ---
