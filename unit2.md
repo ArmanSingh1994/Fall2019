@@ -42,7 +42,7 @@ SYST10049 Web Development
 </body>
 ~~~
 #### example 2
-![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/semElements.gif](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/semElements.gif)
+![http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/semElements.gif](http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/semElements.gif)
 
 ### Character encoding revisited
 ![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/html04.png](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/html04.png)
