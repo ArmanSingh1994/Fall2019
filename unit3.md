@@ -72,6 +72,7 @@ For each of the following element, complete the tutorial on w3schools.  Note the
 * add to your written code, as comments, all corrections and observations.
 
 #### B. Complete the [Media and hyperlink content project](https://paper.dropbox.com/doc/Media-and-hyperlink-content-project--AkjRC0d9y_F5WqVHWfQnYdcAAQ-4pSmQVksDzUr3RWIbawX2). Additional instructions will be provided in class.
+The new link to the media is: [http://bajcar.dev.fast.sheridanc.on.ca/web10049/media/](http://bajcar.dev.fast.sheridanc.on.ca/web10049/media/)
 
 #### C. Explore video example: [https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#Other_%3Cvideo%3E_features](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#Other_%3Cvideo%3E_features)
 
