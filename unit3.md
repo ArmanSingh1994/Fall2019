@@ -28,7 +28,7 @@ Deploying—or pushing new code to a server—is an integral part of a developer
 [Interactive content (W3C)](https://www.w3.org/TR/html52/dom.html#interactive-content)
 : is content that is specifically intended for user interaction.
 
-[Embedded contentv(W3C)](https://www.w3.org/TR/html52/dom.html#embedded-content)
+[Embedded content (W3C)](https://www.w3.org/TR/html52/dom.html#embedded-content)
 : is content that imports another resource into the document, or content from another vocabulary that is inserted into the document.
 
 
