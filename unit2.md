@@ -56,10 +56,10 @@ SYST10049 Web Development
 > What structure should your website have?  
 > File paths
 
-![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/pathnames.jpg](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/pathnames.jpg)
+![http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/pathnames.jpg](http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/pathnames.jpg)
 
 
-![http://bajcar.dev.fast.sheridanc.on.ca/syst10199/images/slides/file_naming.png](http://bajcar.dev.fast.sheridanc.on.ca/syst10199/images/slides/file_naming.png)
+![http://bajcar.dev.fast.sheridanc.on.ca/web10199/images/slides/file_naming.png](http://bajcar.dev.fast.sheridanc.on.ca/web10199/images/slides/file_naming.png)
 
 ## Exercise Set 2
 ### Formulate answers to the following questions
