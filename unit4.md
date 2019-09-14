@@ -50,7 +50,7 @@ For each of the following element, complete the tutorial on w3schools.  Note the
 8. CAPTION [https://www.w3schools.com/tags/tag_caption.asp](https://www.w3schools.com/tags/tag_caption.asp)
 9. TH [https://www.w3schools.com/tags/tag_th.asp](https://www.w3schools.com/tags/tag_th.asp)
 10. TD [https://www.w3schools.com/tags/tag_td.asp](https://www.w3schools.com/tags/tag_td.asp)
-11. TR [https://www.w3schools.com/tags/tag_tr.asp](https://www.w3schools.com/tags/tag_tr.asp) *ADDED*
+11. TR [https://www.w3schools.com/tags/tag_tr.asp](https://www.w3schools.com/tags/tag_tr.asp) :new:
 12. ARTICLE [https://www.w3schools.com/tags/tag_article.asp](https://www.w3schools.com/tags/tag_article.asp)
 13. SECTION [https://www.w3schools.com/tags/tag_section.asp](https://www.w3schools.com/tags/tag_section.asp)
 14. ASIDE [https://www.w3schools.com/tags/tag_aside.asp](https://www.w3schools.com/tags/tag_aside.asp)
