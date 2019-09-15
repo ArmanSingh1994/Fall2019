@@ -6,7 +6,7 @@ SYST10049 Web Development
 > 2. Structures: tables and lists
 
 
-### 3. Document Object Model (DOM)
+### Document Object Model (DOM)
 **Thinking in Objects** The procedural paradigm focuses on designing methods. The object-oriented paradigm couples data and methods together into objects. Software design using the object-oriented paradigm focuses on objects and operations on objects.
 
 **The Document Object** When an HTML document is loaded into a web browser, it becomes a  [document object](http://www.w3schools.com/jsref/dom_obj_document.asp). The document object is the **root node** of the HTML document and the "owner" of  [all other nodes](http://www.w3schools.com/jsref/dom_obj_document.asp).
