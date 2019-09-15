@@ -31,7 +31,7 @@ SYST10049 Web Development
 	* What are the options?  Using an online tool like GitHub or Google App Engine.   Using a web-based IDE... 
 9.  **How the web works**
 
-![http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/start/server4.png](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/images/start/server4.png)
+![http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/start/server4.png](http://bajcar.dev.fast.sheridanc.on.ca/web10049/images/start/server4.png)
 
 
 #### Progressive enhancement approach
