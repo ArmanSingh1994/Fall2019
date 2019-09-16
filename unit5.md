@@ -99,7 +99,7 @@ For each of the following element, complete the tutorial on w3schools.  Note the
 
 ### Complete the following exercises
 
-#### A. Create your own version of [Example Set 9 :update:](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_09.html) files  in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
+#### A. Create your own version of [Example Set 9 :new:](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_09.html) files  in directory `C:\public_html\syst10049\practice`, choosing an appropriate name.
 -
 	 - [ ] start with minimal HTML5 document
 	 - [ ] copy the rendered content (right-hand side) into the body
