@@ -26,7 +26,7 @@ A program can compile (be interpreted) correctly, produce the correct output, an
 (3) program correctness.
 
 **Algorithm design**	
-Algorithm design  is a measure of how well the algorithm has been designed. For example, if the solution calls for a recursive algorithm to be implemented. It is considered to be poorly designed if iterative structures are used. Another example: if the algorithm contains a  divide-by-zero instruction, has it been safeguarded against divide-by-zero errors? HTML example: using breaks instead of paragraphs.
+Algorithm design  is a measure of how well the algorithm has been designed. For example, if the solution calls for a recursive algorithm to be implemented. It is considered to be poorly designed if iterative structures are used. Another example: if the algorithm contains a  divide-by-zero instruction, has it been safeguarded against divide-by-zero errors? HTML example: using paragraphs instead of line breaks.
 
  - *Programming structures:* Has the program been designed using the appropriate programming structures?
  -  *Program testing:* Is the program designed to work correctly for all input cases? What about error cases?
