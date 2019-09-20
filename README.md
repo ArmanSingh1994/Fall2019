@@ -4,11 +4,11 @@ Learn how to use standards-based Hyperlink Markup Language (HTML5) and Cascading
 Available material 
 * [Unit 1](https://github.com/ebajcar/Fall2019/blob/notes10049/unit1.md) - Web Development, Intro to HTML
 * [Unit 2](https://github.com/ebajcar/Fall2019/blob/notes10049/unit2.md) - HTML5, textual content
-* [Unit 3](https://github.com/ebajcar/Fall2019/blob/notes10049/unit3.md)
-* [Unit 4](https://github.com/ebajcar/Fall2019/blob/notes10049/unit4.md)
+* [Unit 3](https://github.com/ebajcar/Fall2019/blob/notes10049/unit3.md) - HTML5, interactive content, embedded content
+* [Unit 4](https://github.com/ebajcar/Fall2019/blob/notes10049/unit4.md) - HTML5, structural markup
 * [Unit 5](https://github.com/ebajcar/Fall2019/blob/notes10049/unit5.md)
 * 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTQwODQwNV19
+eyJoaXN0b3J5IjpbLTU4OTA4NTc0XX0=
 -->
