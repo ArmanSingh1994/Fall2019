@@ -5,10 +5,10 @@ Available material
 * [Unit 1](https://github.com/ebajcar/Fall2019/blob/notes10049/unit1.md) - Web Development, Intro to HTML
 * [Unit 2](https://github.com/ebajcar/Fall2019/blob/notes10049/unit2.md) - HTML5, textual content
 * [Unit 3](https://github.com/ebajcar/Fall2019/blob/notes10049/unit3.md) - HTML5, interactive content, embedded content
-* [Unit 4](https://github.com/ebajcar/Fall2019/blob/notes10049/unit4.md) - HTML5, structural element, tables, lists
-* [Unit 5](https://github.com/ebajcar/Fall2019/blob/notes10049/unit5.md) - HTML5, web forms
+* [Unit 4](https://github.com/ebajcar/Fall2019/blob/notes10049/unit4.md) - HTML5, DOM, structural element, tables, lists
+* [Unit 5](https://github.com/ebajcar/Fall2019/blob/notes10049/unit5.md) - HTML5, web forms interactive content
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA2OTg0MzJdfQ==
+eyJoaXN0b3J5IjpbMTY3NTY3NTI3OV19
 -->
