@@ -5,7 +5,7 @@ SYST10049 Web Development
 
  1. Complete exercise D. Complete the project on MDN *Structuring a page of content* in Unit 4. 
 	 - this page will be the home page. 
-	 - Use their css only to verify that your structure is correct, then remove the link and the css file from your project before publishing.
+	 - Use their css only to verify that your structure is correct, then **remove** the link and the css file from your project , prior to publishing.
 	 - use this page to create the secondary pages in the `content` sub-directory (`get_started.html`, `photos.html`, `gear.html`, `forum.html`. Include descriptive headings and paragraphs of lorem ipsum text to fill in the main and aside containers. Do not duplicate, make each page different (copy different text and have different number of paragraphs,...)
 	 - -update and test navigation (test going from any page to any page).
  2. Show your instructor your code for immediate feedback and opportunity to improve. Read through the self-evaluation rubric below. Make sure your code is validated, update and add all comments, use proper indentation.  **Get feedback before publishing to ensure you have not missed or misinterpreted anything to get full marks!**
@@ -58,6 +58,6 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Ability to Compile or Interpret without Errors:* The program should compile, or be interpreted, without any warnings or errors. Make sure you use the appropriate syntax when compiling/interpreting your program. The permissions on the script file should be set properly.
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODQ5OTUxOSw3NTQ5ODczODEsLTE0NT
-gwMTIzMzhdfQ==
+eyJoaXN0b3J5IjpbLTQ4MjA3MjYzNSwxNjU4NDk5NTE5LDc1ND
+k4NzM4MSwtMTQ1ODAxMjMzOF19
 -->
