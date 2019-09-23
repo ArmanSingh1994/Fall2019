@@ -10,7 +10,7 @@ SYST10049 Web Development
  2. Show your instructor your code for immediate feedback and opportunity to improve. Read through the self-evaluation rubric below. Make sure your code is validated, update and add all comments, use proper indentation.  **Get feedback before publishing to ensure you have not missed or misinterpreted anything to get full marks!**
  3. Publish on server `http://username.dev.fast.sheridanc.on.ca/syst10049/project7`
  4. Submit in SLATE  dropbox by the due date.
- 
+ ![index.html without styles](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshotPhase1.png)
  ---
 
 ## A Guideline for Implementing Good Solutions
@@ -53,5 +53,6 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Ability to Compile or Interpret without Errors:* The program should compile, or be interpreted, without any warnings or errors. Make sure you use the appropriate syntax when compiling/interpreting your program. The permissions on the script file should be set properly.
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgwMTIzMzhdfQ==
+eyJoaXN0b3J5IjpbLTEzNDE2MjY2NjIsLTE0NTgwMTIzMzhdfQ
+==
 -->
