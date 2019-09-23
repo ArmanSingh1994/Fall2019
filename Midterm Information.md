@@ -16,8 +16,8 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 4. Review and dig deeper on material in Unit 1, 2, 3, 4, and 5. Summarize and improve your notes. Relate to Learning outcomes:
 
-	**(1) Create a properly structured web page using (HTML5). ✔
-	(2) Represent the Document Object Model (DOM) in a hierarchical diagram. ✔
+	>(1) Create a properly structured web page using (HTML5). ✔
+		(2) Represent the Document Object Model (DOM) in a hierarchical diagram. ✔
 	(3) Recognize the importance of browser compatibility with HTML5 standards. ✔
 	(6)  Publish a web page on the internet. ✔
 	(7)  Explain how web servers display web pages. ✔
@@ -44,5 +44,5 @@ Read carefully:  [https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhi
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzgzOTM4NywxNDU5Nzc0NTc0XX0=
+eyJoaXN0b3J5IjpbLTExNTM0NTA4MjcsMTQ1OTc3NDU3NF19
 -->
