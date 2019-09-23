@@ -23,10 +23,26 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 	(7)  Explain how web servers display web pages. ✔
 	(10)  Design forms that use major controls ~~and form handling logic~~. ✔**
 
+---
+### Test format and rules
+
+-   You have two (2) hours to complete the test.
+-   Midterm is written on paper. Bring lots of pens, pencils, erasers, and a rule to draw.
+
+Format breakdown
+
+-   1/3 multiple choice and true or false questions;
+-   1/3 short answers, drawing DOM diagrams, correct code, fill-in blanks, describe or draw how something renders; and
+-   1/3 writing HTML5 code snippets (snippet is a part or a fragment of code, generally does not include minimal HTML5 document code). READ QUESTIONS CAREFULLY to determine what you are expected to include.
+
+**You are allowed to use your hand-written notes**  (no printouts, no photocopies, no images, no snapshots, or otherwise reproduced notes). There is no limit on the amount of notes. It is advisable to prepare an outline (summary or table of content) of your notes to be able to find things quickly.
+
+Make sure you bring your STUDENT ID CARD.  
+Read carefully:  [https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhiRSnYUJ6wcwC203sEM/edit?usp=sharing](https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhiRSnYUJ6wcwC203sEM/edit?usp=sharing)  You will be asked to complete and sign the form before writing the test.
 
 ---
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTc3NDU3NF19
+eyJoaXN0b3J5IjpbLTIxNzgzOTM4NywxNDU5Nzc0NTc0XX0=
 -->
