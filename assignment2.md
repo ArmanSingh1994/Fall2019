@@ -12,10 +12,9 @@ SYST10049 Web Development
  4. Submit in SLATE  dropbox by the due date.
  
  *Screenshot of index.html without styles:*
- ![index.html without styles](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshotPhase1.png)
-]
- *Screenshot of get_started.html without styles:*
+ ![index.html no styles](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshotPhase1.png)
  
+ *Screenshot of get_started.html without styles:*
 ![secondary page example](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshotSecondPage.png)
 
 ## A Guideline for Implementing Good Solutions
@@ -58,6 +57,6 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Ability to Compile or Interpret without Errors:* The program should compile, or be interpreted, without any warnings or errors. Make sure you use the appropriate syntax when compiling/interpreting your program. The permissions on the script file should be set properly.
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk2NzQ3NTIsNzU0OTg3MzgxLC0xND
+eyJoaXN0b3J5IjpbLTE3NzQwMzI0MjgsNzU0OTg3MzgxLC0xND
 U4MDEyMzM4XX0=
 -->
