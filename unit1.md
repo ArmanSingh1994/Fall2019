@@ -142,15 +142,15 @@ Every program (process) has input and output. Computer programming is a process 
 
 ### Keep reading, exploring and cross-referencing
 * **Primary source** [https://www.w3.org/TR/html5/syntax.html](https://www.w3.org/TR/html5/syntax.html)
-* [HTML checklist](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/checklists/htmlSheet.html)
-* [CSS checklist](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/checklists/cssSheet.html)
+* [HTML checklist](http://bajcar.dev.fast.sheridanc.on.ca/web10049/checklists/htmlSheet.html)
+* [CSS checklist](http://bajcar.dev.fast.sheridanc.on.ca/web10049/checklists/cssSheet.html)
 
 
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjkxNDQxNiwxMjE5NzQxNTQ1LC0xNz
-kzNTY5NDk0LDE2Mjk2NjAzNDAsMTEwMTIyODUwNywxODk0NTg1
-MDQ4LDM2ODQ5ODMxMCwtMTE2NDI3OTgyLC0yNzIyNzU5MzgsNT
-I0MjgxMzU5LC0xMTgzMDU4MDMzXX0=
+eyJoaXN0b3J5IjpbLTE1NTA2MDc2MjYsLTgzMjkxNDQxNiwxMj
+E5NzQxNTQ1LC0xNzkzNTY5NDk0LDE2Mjk2NjAzNDAsMTEwMTIy
+ODUwNywxODk0NTg1MDQ4LDM2ODQ5ODMxMCwtMTE2NDI3OTgyLC
+0yNzIyNzU5MzgsNTI0MjgxMzU5LC0xMTgzMDU4MDMzXX0=
 -->
