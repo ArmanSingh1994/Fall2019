@@ -121,8 +121,11 @@ For each of the following element, complete the tutorial on w3schools.  Note the
  
 ### Keep reading, exploring and cross-referencing
 * **Primary source** [https://www.w3.org/TR/html5/syntax.html](https://www.w3.org/TR/html5/syntax.html)
-* [HTML checklist](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/checklists/htmlSheet.html)
-* [CSS checklist](http://bajcar.dev.fast.sheridanc.on.ca/syst10049/checklists/cssSheet.html)
+* [HTML checklist](http://bajcar.dev.fast.sheridanc.on.ca/web10049/checklists/htmlSheet.html)
+* [CSS checklist](http://bajcar.dev.fast.sheridanc.on.ca/web10049/checklists/cssSheet.html)
 
 ---
 > SYST10049 Web Development @ Sheridan College
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MTgwMzIxMzhdfQ==
+-->
