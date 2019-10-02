@@ -32,10 +32,10 @@ SYST10049 Web Development
 -   **Padding box**: The padding sits around the content as white space; its size can be controlled using  padding and related properties.
 -   **Border box**: The border box wraps the content and any padding. Its size and style can be controlled using  border and related properties.
 -   **Margin box**: The margin is the outermost layer, wrapping the content, padding and border as whitespace between this box and other elements. Its size can be controlled using  margin and related properties.
-[explore ](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model)
+[explore more...](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model)
 
 **Containing Block**
-"The position and size of an element's box(es) are sometimes calculated relative to a certain rectangle, called the containing block of the element. The containing block of an element is defined as follows:" [read more...](https://www.w3.org/TR/CSS22/visudet.html#containing-block-details)
+"The position and size of an element's box(es) are sometimes calculated relative to a certain rectangle, called the containing block of the element. The containing block of an element is defined as follows:" [explore more...](https://www.w3.org/TR/CSS22/visudet.html#containing-block-details)
 
 **Block formatting context**
 [https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Block_formatting_context)
@@ -117,5 +117,5 @@ in `C:\public_html\syst10049\css_practice` directory. Start with the code [https
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjU2MDE5NywtMjE2MjQzNTMyXX0=
+eyJoaXN0b3J5IjpbOTMyNjk2ODMsLTIxNjI0MzUzMl19
 -->
