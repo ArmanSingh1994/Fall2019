@@ -27,6 +27,9 @@ SYST10049 Web Development
 [Origin_of_CSS_declarations](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#Origin_of_CSS_declarations)
 [Cascading_order](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#Cascading_order)
 
+**What_is_the_CSS_box_model?**
+[https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model)
+
 **Containing Block**
 "The position and size of an element's box(es) are sometimes calculated relative to a certain rectangle, called the containing block of the element. The containing block of an element is defined as follows:" [read more...](https://www.w3.org/TR/CSS22/visudet.html#containing-block-details)
 
@@ -110,5 +113,5 @@ in `C:\public_html\syst10049\css_practice` directory. Start with the code [https
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjI0MzUzMl19
+eyJoaXN0b3J5IjpbMTMyODM5MTI2MSwtMjE2MjQzNTMyXX0=
 -->
