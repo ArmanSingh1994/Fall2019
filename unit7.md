@@ -28,6 +28,10 @@ SYST10049 Web Development
 [Cascading_order](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade#Cascading_order)
 
 **What_is_the_CSS_box_model?**
+-   **Content box**: The area where your content is displayed, which can be sized using properties like  width and height.  If box-sizing is set to border-box, however, it instead determines the height of the border area.").
+-   **Padding box**: The padding sits around the content as white space; its size can be controlled using  [`padding`](https://developer.mozilla.org/en-US/docs/Web/CSS/padding "The padding CSS property sets the padding area on all four sides of an element. It is a shorthand for padding-top, padding-right, padding-bottom, and padding-left.")  and related properties.
+-   **Border box**: The border box wraps the content and any padding. Its size and style can be controlled using  [`border`](https://developer.mozilla.org/en-US/docs/Web/CSS/border "The border shorthand CSS property sets an element's border.")  and related properties.
+-   **Margin box**: The margin is the outermost layer, wrapping the content, padding and border as whitespace between this box and other elements. Its size can be controlled using  [`margin`](https://developer.mozilla.org/en-US/docs/Web/CSS/margin "The margin CSS property sets the margin area on all four sides of an element. It is a shorthand for margin-top, margin-right, margin-bottom, and margin-left.")  and related properties.
 [https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#What_is_the_CSS_box_model)
 
 **Containing Block**
@@ -113,5 +117,5 @@ in `C:\public_html\syst10049\css_practice` directory. Start with the code [https
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODM5MTI2MSwtMjE2MjQzNTMyXX0=
+eyJoaXN0b3J5IjpbNDQwMTAyODQ3LC0yMTYyNDM1MzJdfQ==
 -->
