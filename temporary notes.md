@@ -1,8 +1,12 @@
 
 #### Styling Definition Lists
 
-HTML file to download: 
+HTML file to download: [https://pastebin.com/BNXqNkpT](https://pastebin.com/BNXqNkpT)
+(example08_55)
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/example08_055.png)
+
+#### Styling Tables
+HTML file to download: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjU3NjY4MV19
+eyJoaXN0b3J5IjpbLTI0NjEwMDA3MSwtOTcyNTc2NjgxXX0=
 -->
