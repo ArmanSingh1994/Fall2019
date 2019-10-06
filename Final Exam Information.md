@@ -32,13 +32,13 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 ### Test format and rules
 
 -   You have two (2) hours to complete the test.
--   Midterm is written on paper. Bring lots of pens, pencils, erasers, and a rule to draw.
+-   Final exam is written on paper. Bring lots of pens, pencils, erasers, and a rule to draw.
 
 Format breakdown
 
 -   1/3 multiple choice and true or false questions;
 -   1/3 short answers, drawing DOM diagrams, correct code, fill-in blanks, describe or draw how something renders; and
--   1/3 writing HTML5 code snippets (snippet is a part or a fragment of code, generally does not include minimal HTML5 document code). READ QUESTIONS CAREFULLY to determine what you are expected to include.
+-   1/3 writing CSS3 rules. READ QUESTIONS CAREFULLY to determine what you are expected to include.
 
 **You are allowed to use your hand-written notes**  (no printouts, no photocopies, no images, no snapshots, or otherwise reproduced notes). There is no limit on the amount of notes. It is advisable to prepare an outline (summary or table of content) of your notes to be able to find things quickly.
 
