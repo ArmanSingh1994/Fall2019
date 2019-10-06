@@ -22,7 +22,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 	>(4) Style a web page using Cascading Style Sheets (CSS3).✔
 
-  >(5) Create page layouts that adapt to suit the constraints of the display using media queries.✔
+ 	>(5) Create page layouts that adapt to suit the constraints of the display using media queries.✔
 
 	>(7)  Explain how web servers display web pages. ✔
 
