@@ -17,7 +17,6 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 4. Review and dig deeper on material in Unit 1, 2, 3, 4, and 5. Summarize and improve your notes. Relate to Learning outcomes:
 
 	>(1) Create a properly structured web page using (HTML5). ✔
-
 	>(2) Represent the Document Object Model (DOM) in a hierarchical diagram. ✔
 
 	>(3) Recognize the importance of browser compatibility with HTML5 standards. ✔
@@ -26,7 +25,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 	>(7)  Explain how web servers display web pages. ✔
 
-	>(10)  Design forms that use major controls ~~and form handling logic~~. ✔**
+	>(10)  Design forms that use major controls ~~and form handling logic~~. ✔
 
 ---
 ### Test format and rules
