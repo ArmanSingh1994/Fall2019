@@ -1,8 +1,8 @@
 SYST10049 Web Development
-: Midterm Information
+: Final Exam Information
 
 ## Overview
-Prepare to write the mid-term exam. 
+Prepare to write the final exam (class 14)
 
 ## Preparation
 Consult and review Class Plan and Gradebook on SLATE for details.
@@ -20,7 +20,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 	>(3) Recognize the importance of browser compatibility with CSS3 standards. ✔
 
-	>(4) Style a web page using Cascading Style Sheets (CSS3).
+	>(4) Style a web page using Cascading Style Sheets (CSS3).✔
 
   >(5) Create page layouts that adapt to suit the constraints of the display using media queries.✔
 
@@ -42,7 +42,7 @@ Format breakdown
 
 **You are allowed to use your hand-written notes**  (no printouts, no photocopies, no images, no snapshots, or otherwise reproduced notes). There is no limit on the amount of notes. It is advisable to prepare an outline (summary or table of content) of your notes to be able to find things quickly.
 
-Make sure you bring your STUDENT ID CARD.  
+### Make sure you bring your STUDENT ID CARD.  
 Read carefully:  [https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhiRSnYUJ6wcwC203sEM/edit?usp=sharing](https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhiRSnYUJ6wcwC203sEM/edit?usp=sharing)  You will be asked to complete and sign the form before writing the test.
 
 ---
