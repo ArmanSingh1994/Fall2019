@@ -17,6 +17,9 @@ SYST10049 Web Development
 - [@keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp)
 - [@font-face](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
 - [@charset](https://www.w3schools.com/cssref/pr_charset_rule.asp)
+|---|---|---|---|---|
+|[@import](https://www.w3schools.com/cssref/pr_import_rule.asp) | | [@media](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) || [@keyframes](https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp) | [@font-face](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
+| [@charset](https://www.w3schools.com/cssref/pr_charset_rule.asp)
 
 **Values and Units**
 [CSS Values and Units Module Level 3](https://www.w3.org/TR/css3-values/)
@@ -122,6 +125,6 @@ in `C:\public_html\syst10049\css_practice` directory. Start with the code [https
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODExNzIwMjksOTMyNjk2ODMsLTIxNj
+eyJoaXN0b3J5IjpbLTE2MzgxNzAwOTcsOTMyNjk2ODMsLTIxNj
 I0MzUzMl19
 -->
