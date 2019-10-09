@@ -32,7 +32,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 ### Test format and rules
 
 -   You have two (2) hours to complete the test.
--   Final exaMidterm is written on paper. Bring lots of pens, pencils, erasers, and a rule to draw.
+-   Final exam is written on paper. Bring lots of pens, pencils, erasers, and a rule to draw.
 
 Format breakdown
 
