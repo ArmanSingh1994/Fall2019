@@ -14,7 +14,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 3. Review topical outline: either [Image of topical outline padlet](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/generic/class_plan_fall2019.png) or [Padlet](https://padlet.com/ellen_bajcar/a8idysdwjlim)
 
-4. Review and dig deeper on material in Unit 61, 72, 83, 94, and 105. Summarize and improve your notes. Relate to Learning outcomes:
+4. Review and dig deeper on material in Unit 6, 7, 8,  and 9. Summarize and improve your notes. Relate to Learning outcomes:
 
 	>(2) Represent the Document Object Model (DOM) in a hierarchical diagram. ✔
 
