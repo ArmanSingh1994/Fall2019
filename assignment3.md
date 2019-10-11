@@ -102,29 +102,29 @@ header ul, header li {
 	- favourite photos: consider using grid [https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_display_inline-grid](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_display_inline-grid) *Note* You will need to add a generic container `<div class="grid-container">` around the images and classify the images as needed.
 13. Add blog form to the forum page, replacing the content of the section.
 ```html
-&lt;section id="blog">
-&lt;h2>Forum</h2>
-&lt;form id="blogform">
-&lt;label>Name&lt;/label>
-&lt;input name="username" id="username" type="text" value="" placeholder="Your Name">
-&lt;label>Email&lt;/label>
-&lt;input name="email" type="text" value="" placeholder="Your Email">
-&lt;label>Select Tags&lt;/label>
-&lt;fieldset>
-&lt;input name="btags" type="checkbox" value="Food">  gear
-&lt;input name="btags" type="checkbox" value="Passion"> Ontario
-&lt;input name="btags" type="checkbox" value="School"> sightings
-&lt;input name="btags" type="checkbox" value="Holidays"> World
-&lt;input name="btags" type="checkbox" value="Technology"> Canada
-&lt;/fieldset>
-&lt;label>Blog Heading&lt;/label>
-&lt;input name="bloghead" type="text" value="" placeholder="Your Blog Heading">                    
-&lt;label>Your Comments&lt;/label>
-&lt;textarea name="blogbody" id="blogbody" placeholder="Your comments here...">&lt;/textarea>
-&lt;br>
-&lt;input class="bttn" id="bttn" type="button" value="submit">
-/form> 
-&lt;/section>
+<section id="blog">
+<h2>Forum</h2>
+<form id="blogform">
+<label>Name</label>
+<input name="username" id="username" type="text" value="" placeholder="Your Name">
+<label>Email</label>
+<input name="email" type="text" value="" placeholder="Your Email">
+<label>Select Tags</label>
+<fieldset>
+<input name="btags" type="checkbox" value="Food">  gear
+<input name="btags" type="checkbox" value="Passion"> Ontario
+<input name="btags" type="checkbox" value="School"> sightings
+<input name="btags" type="checkbox" value="Holidays"> World
+<input name="btags" type="checkbox" value="Technology"> Canada
+</fieldset>
+<label>Blog Heading</label>
+<input name="bloghead" type="text" value="" placeholder="Your Blog Heading">                    
+<label>Your Comments</label>
+<textarea name="blogbody" id="blogbody" placeholder="Your comments here..."></textarea>
+<br>
+<input class="bttn" id="bttn" type="button" value="submit">
+</form> 
+</section>
 ```
 14. Style the form.
 more to come...
