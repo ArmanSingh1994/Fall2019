@@ -65,27 +65,27 @@ main {
 ```css
 /* navigation */
 nav {
-    margin: 0 auto;
-    min-width: 250px;
-     flex: 100%;
-     text-align: center;
+  flex: 100%;
+  margin: 0 auto;
+  min-width: 250px;
+  text-align: center;
 }
 nav a {
-    background: #a4a4a4;
-	color: #fff;
-    display: inline-block;
-	font-family: Lato, sans-serif;
-    font-size: 15px;
-    padding: 7px;
-    text-decoration: none
+  background: #a4a4a4;
+  color: #fff;
+  display: inline-block;
+  font-family: Lato, sans-serif;
+  font-size: 15px;
+  padding: 7px;
+  text-decoration: none
 }
 nav a.active,nav a:hover {
-    background: #c2c2c2;
-    color: #818181;
+  background: #c2c2c2;
+  color: #818181;
 }
 header ul, header li {
-    list-style-type: none;
-    display: inline;
+  display: inline;
+  list-style-type: none; 
 }
 ```
 9. Copy the "main section" rules from the `style.css` file.
@@ -139,5 +139,5 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDc1NTYyNSwtOTQ3MzQ0Njg2XX0=
+eyJoaXN0b3J5IjpbLTE1MDk1NzM0MjEsLTk0NzM0NDY4Nl19
 -->
