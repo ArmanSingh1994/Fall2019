@@ -4,6 +4,19 @@ SYST10049 Web Development
 ## Instructions
 1. Start with a copy of completed Assignment 2
 2. 
+public_html/
+├── syst10199/	
+│   ├── project_name/
+│   │   ├── index.html
+│   │   ├── index_template.html
+│   │   ├── css/
+│   │   │   ├── bullets.css
+│   │   │   ├── buttons.css
+│   │   │   ├── cats.css
+│   │   │   ├── grid.css
+│   │   │   ├── main.css
+│   │   │   └── template.css 
+│   │   ├── content/
 
 more to come...
 
@@ -49,5 +62,5 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MzAzMjI4LC05NDczNDQ2ODZdfQ==
+eyJoaXN0b3J5IjpbLTYxNjkwNjg1MywtOTQ3MzQ0Njg2XX0=
 -->
