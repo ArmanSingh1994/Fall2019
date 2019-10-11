@@ -101,6 +101,31 @@ header ul, header li {
 	- heading and image in the header: consider using positioning instead of flexbox [https://www.w3schools.com/css/css_positioning.asp](https://www.w3schools.com/css/css_positioning.asp)
 	- favourite photos: consider using grid [https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_display_inline-grid](https://www.w3schools.com/css/tryit.asp?filename=trycss_grid_display_inline-grid) *Note* You will need to add a generic container `<div class="grid-container">` around the images and classify the images as needed.
 13. Add blog form to the forum page, replacing the content of the section.
+```html
+&lt;section id="blog">
+&lt;h2>Forum</h2>
+&lt;form id="blogform">
+&lt;label>Name&lt;/label>
+&lt;input name="username" id="username" type="text" value="" placeholder="Your Name">
+&lt;label>Email&lt;/label>
+&lt;input name="email" type="text" value="" placeholder="Your Email">
+&lt;label>Select Tags&lt;/label>
+&lt;fieldset>
+&lt;input name="btags" type="checkbox" value="Food">  gear
+&lt;input name="btags" type="checkbox" value="Passion"> Ontario
+&lt;input name="btags" type="checkbox" value="School"> sightings
+&lt;input name="btags" type="checkbox" value="Holidays"> World
+&lt;input name="btags" type="checkbox" value="Technology"> Canada
+&lt;/fieldset>
+&lt;label>Blog Heading&lt;/label>
+&lt;input name="bloghead" type="text" value="" placeholder="Your Blog Heading">                    
+&lt;label>Your Comments&lt;/label>
+&lt;textarea name="blogbody" id="blogbody" placeholder="Your comments here...">&lt;/textarea>
+&lt;br>
+&lt;input class="bttn" id="bttn" type="button" value="submit">
+/form> 
+&lt;/section>
+```
 14. Style the form.
 more to come...
 
