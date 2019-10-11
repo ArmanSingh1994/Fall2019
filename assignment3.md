@@ -22,6 +22,24 @@ public_html/
 │   │   │   └── fav04_th.jpg 
 ```
 3. Create a new CSS file in the `css` folder, call it `main.css`
+4. Add prologue; an example
+```css
+/*
+File: 		main.css
+Author: 	Ellen Bajcar
+Date Created: 		Fall 2017
+Date Updated: 		
+Version: 	1.0
+Purpose: 	explore css selectors and properties
+Copyright: 
+    This work is the intellectual property of Sheridan College. 
+    Any further copying and distribution outside of class must be within the copyright law. Posting to commercial sites for profit is prohibited.
+Dependencies:
+	used in assignment 3, Fall 2019
+Description:
+	
+*/
+```
 more to come...
 
 
@@ -66,5 +84,5 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwODk3ODUsLTk0NzM0NDY4Nl19
+eyJoaXN0b3J5IjpbLTE4OTg0MjQyNzQsLTk0NzM0NDY4Nl19
 -->
