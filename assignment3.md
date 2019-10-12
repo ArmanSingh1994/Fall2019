@@ -129,6 +129,8 @@ header ul, header li {
 
 13. Style the form. What would CSS rules would you need to render the blog as:
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/blog_forum_a3.png)
+
+14. Compare to this possible solution.
 more to come...
 
 
@@ -173,6 +175,6 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQyNTM0MDEsMTIzMjIxNzA2NCwtMT
-Q3NjcyNzUzMCwtOTQ3MzQ0Njg2XX0=
+eyJoaXN0b3J5IjpbMTk4OTIxNzYzMCwtMTM2NDI1MzQwMSwxMj
+MyMjE3MDY0LC0xNDc2NzI3NTMwLC05NDczNDQ2ODZdfQ==
 -->
