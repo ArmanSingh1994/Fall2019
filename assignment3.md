@@ -135,9 +135,10 @@ header ul, header li {
 Code available here: [https://pastebin.com/J8KQAHsh](https://pastebin.com/J8KQAHsh)
 You need your home page to work and apply your own `main.css`; examine the html structural elements and adjust your css to ensure it work properly.
 15. Ensure that all pages display properly with your `main.css` stylesheet.
-16. Clean up your code (remove duplicates, consolidate whenever possible to reduce and organize code. Make it a habit to alphabetizeValidate all your code, HTML and CSS.
-17. Test your links.
-18. C
+16. Clean up your code (remove duplicates, consolidate whenever possible to reduce and organize code. Make it a habit to alphabetize your declarations, especially when you have more than 3-4 declarations. 
+17. Validate all your code, HTML and CSS.
+18. Test your links and rendering.
+19. Publish on `dev.fast.sheridanc.ca`
 more to come...
 
 
@@ -182,7 +183,7 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTI1OTEwNiwxMjIwNzEzMzc1LDg3OD
+eyJoaXN0b3J5IjpbMTY2MzU4MjU1MSwxMjIwNzEzMzc1LDg3OD
 YxMDA5NiwtMTM2NDI1MzQwMSwxMjMyMjE3MDY0LC0xNDc2NzI3
 NTMwLC05NDczNDQ2ODZdfQ==
 -->
