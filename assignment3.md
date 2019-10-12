@@ -131,6 +131,7 @@ header ul, header li {
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/blog_forum_a3.png)
 
 14. Compare to this possible solution.
+
 more to come...
 
 
@@ -175,6 +176,6 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTIxNzYzMCwtMTM2NDI1MzQwMSwxMj
-MyMjE3MDY0LC0xNDc2NzI3NTMwLC05NDczNDQ2ODZdfQ==
+eyJoaXN0b3J5IjpbODc4NjEwMDk2LC0xMzY0MjUzNDAxLDEyMz
+IyMTcwNjQsLTE0NzY3Mjc1MzAsLTk0NzM0NDY4Nl19
 -->
