@@ -133,7 +133,7 @@ header ul, header li {
 14. Compare to this possible solution.
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/forum_a3_f2019.png)
 Code available here: [https://pastebin.com/J8KQAHsh](https://pastebin.com/J8KQAHsh)
-You need your home page to work
+You need your home page to work and apply your own `main.css`; examine the html structural elements and adjust your css to ensure it work properly.
 
 more to come...
 
@@ -179,7 +179,7 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMxNTUzNzAsMTIyMDcxMzM3NSw4Nz
-g2MTAwOTYsLTEzNjQyNTM0MDEsMTIzMjIxNzA2NCwtMTQ3Njcy
-NzUzMCwtOTQ3MzQ0Njg2XX0=
+eyJoaXN0b3J5IjpbLTE0MDIzMzk4MCwxMjIwNzEzMzc1LDg3OD
+YxMDA5NiwtMTM2NDI1MzQwMSwxMjMyMjE3MDY0LC0xNDc2NzI3
+NTMwLC05NDczNDQ2ODZdfQ==
 -->
