@@ -21,14 +21,17 @@ public_html/
 2. Create `index.html` with minimal HTML5 document. The target rendered display will be:
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot1.png)
 3. Identify and create structural elements.
-- The header contains a top level heading.
-- The footer contains contact information.
-- The navigation, main, and aside are wrapped in a generic division that is classified as `flex-container`
-- The navigation contains anchors; each anchor is wrapped in a `span` that will be classified later; sufficient to start with three anchors (Home, Tic CAT Toe,  CAT Paper Scissors)
-- The six cat images are included at the beginning (or end) of the main container.
-- The aside is a simple unordered list.
-- 
+
+	- The header contains a top level heading.
+	- The footer contains contact information.
+	- The navigation, main, and aside are wrapped in a generic division that is classified as `flex-container`
+	- The navigation contains anchors; each anchor is wrapped in a `span` that will be classified later; sufficient to start with three anchors (Home, Tic CAT Toe,  CAT Paper Scissors)
+	- The six cat images are included at the beginning (or end) of the main container.
+	- The aside is a simple unordered list.
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTkwMjk4MSwxNjYzOTc3ODM3LC0xOT
-E0MTk0MTcxLC02NTE0OTEyOTYsLTEyMTk1MDA4NDBdfQ==
+eyJoaXN0b3J5IjpbLTc0MTQwNzExNCwtMzQ1OTAyOTgxLDE2Nj
+M5Nzc4MzcsLTE5MTQxOTQxNzEsLTY1MTQ5MTI5NiwtMTIxOTUw
+MDg0MF19
 -->
