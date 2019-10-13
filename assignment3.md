@@ -1,5 +1,5 @@
 SYST10049 Web Development
-: Assignment 4
+: Assignment 3
 
 ## Instructions
 1. Start with a copy of completed Assignment 2
@@ -7,12 +7,15 @@ SYST10049 Web Development
 ```
 public_html/
 ├── syst10049/	
-│   ├── assignment4/
+│   ├── assignment3/
 │   │   ├── index.html
 │   │   ├── css/
-│   │   │   └── main.css 
+│   │   │   └── style.css 
 │   │   ├── content/
-│   │   │   └── game_rpsls.html
+│   │   │   ├── get_started.html
+│   │   │   ├── gear.html
+│   │   │   ├── forum.html
+│   │   │   └── photos.html
 │   │   ├── images/
 │   │   │   ├── dove.png
 . . .
@@ -184,7 +187,7 @@ Program correctness consists of ability to compile (or interpret) and correct re
  - *Correct Results:* The program should be evaluated on whether it does exactly what the problem stipulates, not on efficiency or appropriateness of the code. Note that "exactly" implies that, if the desired output format has been specified explicitly, no deviation from that format is allowed. For example, if two numbers are to be printed on the same line, it would be an error if they are printed on two lines, no matter how certain you are that it would be better that way. Also consider:	(1) Does the program contain any logic errors? --infinite loops, mathematical errors,... (2) Is the output self-explanatory and well formatted?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzA3OTYxOSwyNDk4MTg5NTAsMTIyMD
+eyJoaXN0b3J5IjpbMjAwOTAzMDEyMiwyNDk4MTg5NTAsMTIyMD
 cxMzM3NSw4Nzg2MTAwOTYsLTEzNjQyNTM0MDEsMTIzMjIxNzA2
 NCwtMTQ3NjcyNzUzMCwtOTQ3MzQ0Njg2XX0=
 -->
