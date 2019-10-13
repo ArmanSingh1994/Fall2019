@@ -7,19 +7,16 @@ SYST10049 Web Development
 ```
 public_html/
 ├── syst10049/	
-│   ├── assignment3/
+│   ├── assignment4/
 │   │   ├── index.html
 │   │   ├── css/
-│   │   │   └── style.css 
+│   │   │   └── main.css 
 │   │   ├── content/
-│   │   │   ├── get_started.html
-│   │   │   ├── gear.html
-│   │   │   ├── forum.html
-│   │   │   └── photos.html
+│   │   │   └── game_rpsls.html
 │   │   ├── images/
 │   │   │   ├── dove.png
 . . .
 │   │   │   └── fav04_th.jpg 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk1MDA4NDBdfQ==
+eyJoaXN0b3J5IjpbMTk3Mjk0Njk3NCwtMTIxOTUwMDg0MF19
 -->
