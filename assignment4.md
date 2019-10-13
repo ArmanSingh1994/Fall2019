@@ -14,9 +14,12 @@ public_html/
 │   │   ├── content/
 │   │   │   └── game_rpsls.html
 │   │   ├── images/
-│   │   │   ├── dove.png
+│   │   │   ├── cat1.gif
 . . .
-│   │   │   └── fav04_th.jpg 
+│   │   │   └── spock.png 
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTQ5MTI5NiwtMTIxOTUwMDg0MF19
+eyJoaXN0b3J5IjpbMTQ5MzgxNDg1NiwtNjUxNDkxMjk2LC0xMj
+E5NTAwODQwXX0=
 -->
