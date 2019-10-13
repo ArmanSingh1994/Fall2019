@@ -34,8 +34,14 @@ public_html/
 
 more instructions coming soon...
 
+
+
+
+
+---
+> SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTIzMjE0NywyMTMzNDgzNzM3LC0zND
-U5MDI5ODEsMTY2Mzk3NzgzNywtMTkxNDE5NDE3MSwtNjUxNDkx
-Mjk2LC0xMjE5NTAwODQwXX0=
+eyJoaXN0b3J5IjpbLTE1NjY1MzcwNjUsMjEzMzQ4MzczNywtMz
+Q1OTAyOTgxLDE2NjM5Nzc4MzcsLTE5MTQxOTQxNzEsLTY1MTQ5
+MTI5NiwtMTIxOTUwMDg0MF19
 -->
