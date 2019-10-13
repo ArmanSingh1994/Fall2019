@@ -22,8 +22,9 @@ public_html/
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot1.png)
 3. Identify and create structural elements.
 - The header contains a top level heading.
-- The footer contains a
+- The footer contains contact information.
+- The navigation, main, and aside are wrapped in a generic division that is classified as 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTcxNTYzMjMsLTY1MTQ5MTI5NiwtMT
+eyJoaXN0b3J5IjpbLTE5MTQxOTQxNzEsLTY1MTQ5MTI5NiwtMT
 IxOTUwMDg0MF19
 -->
