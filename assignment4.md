@@ -18,8 +18,8 @@ public_html/
 . . .
 │   │   │   └── spock.png 
 ```
-
+2. Create `index.html` with minimal HTML5 document. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzgxNDg1NiwtNjUxNDkxMjk2LC0xMj
+eyJoaXN0b3J5IjpbMjEwNTcxODYxMSwtNjUxNDkxMjk2LC0xMj
 E5NTAwODQwXX0=
 -->
