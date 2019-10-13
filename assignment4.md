@@ -2,8 +2,8 @@ SYST10049 Web Development
 : Assignment 4
 
 ## Instructions
-1. Start with a copy of completed Assignment 2
-2. The current project structure should be
+1. Start with a new project called `assignment4` with the following file structure:
+
 ```
 public_html/
 ├── syst10049/	
@@ -18,5 +18,5 @@ public_html/
 . . .
 │   │   │   └── fav04_th.jpg 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjk0Njk3NCwtMTIxOTUwMDg0MF19
+eyJoaXN0b3J5IjpbLTY1MTQ5MTI5NiwtMTIxOTUwMDg0MF19
 -->
