@@ -29,9 +29,10 @@ public_html/
 	- The six cat images are included at the beginning (or end) of the main container.
 	- The aside is a simple unordered list.
 
- 
+ 4. The `game_rpsls.html` has the same structure, with the exception of the main content:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQwNzExNCwtMzQ1OTAyOTgxLDE2Nj
+eyJoaXN0b3J5IjpbLTYxODc1MTUyNSwtMzQ1OTAyOTgxLDE2Nj
 M5Nzc4MzcsLTE5MTQxOTQxNzEsLTY1MTQ5MTI5NiwtMTIxOTUw
 MDg0MF19
 -->
