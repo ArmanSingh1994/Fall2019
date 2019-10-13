@@ -9,12 +9,12 @@ Available material
 * [Unit 5](https://github.com/ebajcar/Fall2019/blob/notes10049/unit5.md) - HTML5, web forms interactive content
 * [Unit 6](https://github.com/ebajcar/Fall2019/blob/notes10049/unit6.md)
 * [Unit 7](https://github.com/ebajcar/Fall2019/blob/notes10049/unit7.md)
-* [Unit 8](https://github.com/ebajcar/Fall2019/blob/notes10049/unit8.md)
-* [Unit 9](https://github.com/ebajcar/Fall2019/blob/notes10049/unit9.md)
-* Unit 10
+* [Unit 8](https://github.com/ebajcar/Fall2019/blob/notes10049/unit8.md) - CSS3, layouts, styling lists and tables
+* [Unit 9](https://github.com/ebajcar/Fall2019/blob/notes10049/unit9.md) - CSS3, layouts, responsive design
+* Unit 10 - CSS3, forms
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNDY0NDI3LDEwMTY0Mjk5MjhdfQ==
+eyJoaXN0b3J5IjpbLTExNjk3MzY0NjIsMTAxNjQyOTkyOF19
 -->
