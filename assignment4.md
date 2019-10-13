@@ -18,8 +18,10 @@ public_html/
 . . .
 │   │   │   └── spock.png 
 ```
-2. Create `index.html` with minimal HTML5 document. 
+2. Create `index.html` with minimal HTML5 document. The target rendered display will be:
+![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot1.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTcxODYxMSwtNjUxNDkxMjk2LC0xMj
-E5NTAwODQwXX0=
+eyJoaXN0b3J5IjpbLTE4NTAwMzEyMDYsLTY1MTQ5MTI5NiwtMT
+IxOTUwMDg0MF19
 -->
