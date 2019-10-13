@@ -30,20 +30,25 @@ public_html/
 	- The six cat images are included at the beginning (or end) of the main container.
 	- The aside is a simple unordered list.
 
+---
+
  4. The `game_rpsls.html` has the same structure, with the exception of the main content:
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot2.png)
 
 more instructions coming soon...
 
-5. The `game_ttt.html` has the same structure, with the exception of the main content:
+---
 
+5. The `game_ttt.html` has the same structure, with the exception of the main content:
+![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot3.png)
 
 
 
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDk3Njk1LC0xNTY2NTM3MDY1LDIxMz
-M0ODM3MzcsLTM0NTkwMjk4MSwxNjYzOTc3ODM3LC0xOTE0MTk0
-MTcxLC02NTE0OTEyOTYsLTEyMTk1MDA4NDBdfQ==
+eyJoaXN0b3J5IjpbLTE0NDc4NDcwNTQsLTc3MDk3Njk1LC0xNT
+Y2NTM3MDY1LDIxMzM0ODM3MzcsLTM0NTkwMjk4MSwxNjYzOTc3
+ODM3LC0xOTE0MTk0MTcxLC02NTE0OTEyOTYsLTEyMTk1MDA4ND
+BdfQ==
 -->
