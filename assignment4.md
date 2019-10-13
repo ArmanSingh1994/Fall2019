@@ -31,8 +31,10 @@ public_html/
 
  4. The `game_rpsls.html` has the same structure, with the exception of the main content:
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot2.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTM1ODc5NywyMTMzNDgzNzM3LC0zND
-U5MDI5ODEsMTY2Mzk3NzgzNywtMTkxNDE5NDE3MSwtNjUxNDkx
-Mjk2LC0xMjE5NTAwODQwXX0=
+eyJoaXN0b3J5IjpbNTgxMDk2NDg5LDIxMzM0ODM3MzcsLTM0NT
+kwMjk4MSwxNjYzOTc3ODM3LC0xOTE0MTk0MTcxLC02NTE0OTEy
+OTYsLTEyMTk1MDA4NDBdfQ==
 -->
