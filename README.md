@@ -11,7 +11,7 @@ Available material
 * [Unit 7](https://github.com/ebajcar/Fall2019/blob/notes10049/unit7.md) - CSS3, Box model, positioning, floats
 * [Unit 8](https://github.com/ebajcar/Fall2019/blob/notes10049/unit8.md) - CSS3, layouts, styling lists and tables
 * [Unit 9](https://github.com/ebajcar/Fall2019/blob/notes10049/unit9.md) - CSS3, layouts, responsive design
-* Unit 10 - CSS3, forms
+* **Being updated** [Unit 10](https://github.com/ebajcar/Fall2019/blob/notes10049/unit10.md) - CSS3, forms
 
 
 
