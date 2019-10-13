@@ -40,15 +40,15 @@ more instructions coming soon...
 ---
 
 5. The `game_ttt.html` has the same structure, with the exception of the main content:
-![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot3.png)
+
 
 
 
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc4NDcwNTQsLTc3MDk3Njk1LC0xNT
-Y2NTM3MDY1LDIxMzM0ODM3MzcsLTM0NTkwMjk4MSwxNjYzOTc3
-ODM3LC0xOTE0MTk0MTcxLC02NTE0OTEyOTYsLTEyMTk1MDA4ND
-BdfQ==
+eyJoaXN0b3J5IjpbLTkxNTcwMDg0NywtNzcwOTc2OTUsLTE1Nj
+Y1MzcwNjUsMjEzMzQ4MzczNywtMzQ1OTAyOTgxLDE2NjM5Nzc4
+MzcsLTE5MTQxOTQxNzEsLTY1MTQ5MTI5NiwtMTIxOTUwMDg0MF
+19
 -->
