@@ -23,8 +23,9 @@ public_html/
 3. Identify and create structural elements.
 - The header contains a top level heading.
 - The footer contains contact information.
-- The navigation, main, and aside are wrapped in a generic division that is classified as 
+- The navigation, main, and aside are wrapped in a generic division that is classified as `flex-container`
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQxOTQxNzEsLTY1MTQ5MTI5NiwtMT
-IxOTUwMDg0MF19
+eyJoaXN0b3J5IjpbMTY2Mzk3NzgzNywtMTkxNDE5NDE3MSwtNj
+UxNDkxMjk2LC0xMjE5NTAwODQwXX0=
 -->
