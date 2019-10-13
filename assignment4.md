@@ -12,6 +12,7 @@ public_html/
 │   │   ├── css/
 │   │   │   └── main.css 
 │   │   ├── content/
+│   │   │   ├── game_ttt.html
 │   │   │   └── game_rpsls.html
 │   │   ├── images/
 │   │   │   ├── cat1.gif
@@ -34,6 +35,7 @@ public_html/
 
 more instructions coming soon...
 
+5. The `game_ttt.html` has the same structure, with the exception of the main content:
 
 
 
@@ -41,7 +43,7 @@ more instructions coming soon...
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY1MzcwNjUsMjEzMzQ4MzczNywtMz
-Q1OTAyOTgxLDE2NjM5Nzc4MzcsLTE5MTQxOTQxNzEsLTY1MTQ5
-MTI5NiwtMTIxOTUwMDg0MF19
+eyJoaXN0b3J5IjpbLTc3MDk3Njk1LC0xNTY2NTM3MDY1LDIxMz
+M0ODM3MzcsLTM0NTkwMjk4MSwxNjYzOTc3ODM3LC0xOTE0MTk0
+MTcxLC02NTE0OTEyOTYsLTEyMTk1MDA4NDBdfQ==
 -->
