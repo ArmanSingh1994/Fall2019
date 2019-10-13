@@ -25,7 +25,9 @@ public_html/
 - The footer contains contact information.
 - The navigation, main, and aside are wrapped in a generic division that is classified as `flex-container`
 - The navigation contains anchors; each anchor is wrapped in a `span` that will be classified later.
+- The six cat images are included at the beginning (or end) of the main container.
+- The aside is a simple
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NTY4MTQ0LDE2NjM5Nzc4MzcsLTE5MT
-QxOTQxNzEsLTY1MTQ5MTI5NiwtMTIxOTUwMDg0MF19
+eyJoaXN0b3J5IjpbLTE1MTg4Mjg0MTcsMTY2Mzk3NzgzNywtMT
+kxNDE5NDE3MSwtNjUxNDkxMjk2LC0xMjE5NTAwODQwXX0=
 -->
