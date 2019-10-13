@@ -24,8 +24,8 @@ public_html/
 - The header contains a top level heading.
 - The footer contains contact information.
 - The navigation, main, and aside are wrapped in a generic division that is classified as `flex-container`
-- 
+- The navigation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2Mzk3NzgzNywtMTkxNDE5NDE3MSwtNj
-UxNDkxMjk2LC0xMjE5NTAwODQwXX0=
+eyJoaXN0b3J5IjpbLTE3MTU5MDk2NiwxNjYzOTc3ODM3LC0xOT
+E0MTk0MTcxLC02NTE0OTEyOTYsLTEyMTk1MDA4NDBdfQ==
 -->
