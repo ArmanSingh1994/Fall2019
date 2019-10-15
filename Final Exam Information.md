@@ -1,5 +1,5 @@
 SYST10049 Web Development
-: Final ExaMidterm Information
+: Final Exam Information
 
 ## Overview
 Prepare to write the final exam (class 14)mid-term exam. 
@@ -50,6 +50,6 @@ Read carefully:  [https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhi
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ0MTUyMjEsLTMzNTE3OTA2MCwtMT
+eyJoaXN0b3J5IjpbLTIwMDEyMTgzNTAsLTMzNTE3OTA2MCwtMT
 E1MzQ1MDgyNywxNDU5Nzc0NTc0XX0=
 -->
