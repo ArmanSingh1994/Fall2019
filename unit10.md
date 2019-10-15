@@ -13,7 +13,13 @@ SYST10049 Web Development
 
 
 ## Exercise Set 9
-
+Complete the following exercises 
+[https://www.w3schools.com/css/css_attribute_selectors.asp](https://www.w3schools.com/css/css_attribute_selectors.asp)
+-   Set the background-color to "lightblue" for elements with a "target" attribute.
+-   Set the background-color to "lightblue" for elements with an attribute like: target="_blank"
+-   Set a border with the color "red", around elements with a "title" attribute containing the word "red".
+-   Set a border with the color "red", around elements with a "title" attribute ending with the word "flower" (not flowers).
+-   Set a border with the color "red", around elements with a "title" attribute containing the value "flow".
 
 ## Keep reading, exploring and cross-referencing
 
@@ -33,5 +39,5 @@ SYST10049 Web Development
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTQ3MzA5M119
+eyJoaXN0b3J5IjpbMTMzODc1ODE0NF19
 -->
