@@ -14,7 +14,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 3. Review topical outline: either [Image of topical outline padlet](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/generic/class_plan_fall2019.png) or [Padlet](https://padlet.com/ellen_bajcar/a8idysdwjlim)
 
-4. Review and dig deeper on material in Unit 6, 7, 8,  and 9. Summarize and improve your notes. Relate to Learning outcomes:
+4. Review and dig deeper on material in Unit 6, 7, 8,  and 9; and  attribute selectors from Unit 10. Summarize and improve your notes. Relate to Learning outcomes:
 
 	>(2) Represent the Document Object Model (DOM) in a hierarchical diagram. ✔
 
@@ -28,7 +28,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 	>(10)  Design forms that use major controls and form handling logic. ✔
 
-5. Complete the exercises [https://www.w3schools.com/css/exercise.asp](https://www.w3schools.com/css/exercise.asp) if you have not already done so.  These are good review exercises. 
+5. Complete the exercises [https://www.w3schools.com/css/exercise.asp](https://www.w3schools.com/css/exercise.asp) if you have not already done so.  These are good review exercises. Focus on 
 ---
 ### Test format and rules
 
@@ -50,6 +50,6 @@ Read carefully:  [https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhi
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjE5NTQxNiwtMzM1MTc5MDYwLC0xMT
-UzNDUwODI3LDE0NTk3NzQ1NzRdfQ==
+eyJoaXN0b3J5IjpbLTExNDgyMTcyNTIsLTMzNTE3OTA2MCwtMT
+E1MzQ1MDgyNywxNDU5Nzc0NTc0XX0=
 -->
