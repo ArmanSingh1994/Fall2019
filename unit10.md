@@ -7,8 +7,10 @@ SYST10049 Web Development
 
 
 ## Explore CSS 
+### Complete tutorials on w3schools.com
+[https://www.w3schools.com/css/css_form.asp](https://www.w3schools.com/css/css_form.asp)
+[https://www.w3schools.com/css/css_attribute_selectors.asp](https://www.w3schools.com/css/css_attribute_selectors.asp)
 
-more coming soon...
 
 ## Exercise Set 9
 
@@ -31,5 +33,5 @@ more coming soon...
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDgyOTg2OF19
+eyJoaXN0b3J5IjpbMTMxNTQ3MzA5M119
 -->
