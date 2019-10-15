@@ -7,11 +7,11 @@ SYST10049 Web Development
 
 
 ## Explore CSS 
-Complete tutorials on w3schools.com
-Styling HTML forms
+
+### Styling HTML forms
 [https://www.w3schools.com/css/css_form.asp](https://www.w3schools.com/css/css_form.asp)
 
-Using Attributes as selectors
+### Using Attributes as selectors
 [https://www.w3schools.com/css/css_attribute_selectors.asp](https://www.w3schools.com/css/css_attribute_selectors.asp)
 
 
@@ -45,5 +45,5 @@ Complete the following exercises [https://www.w3schools.com/css/exercise.asp?fil
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzM3MTM5LDY2MTE5ODczNF19
+eyJoaXN0b3J5IjpbOTg0NDEwNDE2LDY2MTE5ODczNF19
 -->
