@@ -28,7 +28,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 	>(10)  Design forms that use major controls and form handling logic. ✔
 
-5. Complete the exercises [https://www.w3schools.com/css/exercise.asp](https://www.w3schools.com/css/exercise.asp) if you have not already done so.  These are good review exercises. Focus on 
+5. Complete the exercises [https://www.w3schools.com/css/exercise.asp](https://www.w3schools.com/css/exercise.asp) if you have not already done so.  These are good review exercises:   CSS Selectors, CSS Background, CSS Border, CSS Margin, CSS Padding, CSS Height/Width, CSS Box Model, CSS Text, CSS Font, CSS Links, CSS Lists, 
 ---
 ### Test format and rules
 
@@ -50,6 +50,6 @@ Read carefully:  [https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhi
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgyMTcyNTIsLTMzNTE3OTA2MCwtMT
-E1MzQ1MDgyNywxNDU5Nzc0NTc0XX0=
+eyJoaXN0b3J5IjpbNzgxNTU4OTY1LC0zMzUxNzkwNjAsLTExNT
+M0NTA4MjcsMTQ1OTc3NDU3NF19
 -->
