@@ -7,7 +7,7 @@ SYST10049 Web Development
 
 
 ## Explore CSS 
-### Complete tutorials on w3schools.com
+Complete tutorials on w3schools.com
 Styling HTML forms
 [https://www.w3schools.com/css/css_form.asp](https://www.w3schools.com/css/css_form.asp)
 
@@ -45,5 +45,5 @@ Complete the following exercises [https://www.w3schools.com/css/exercise.asp?fil
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTMwOTEwNCw2NjExOTg3MzRdfQ==
+eyJoaXN0b3J5IjpbMTI5NzM3MTM5LDY2MTE5ODczNF19
 -->
