@@ -77,6 +77,7 @@ HTML file to download:  [https://pastebin.com/pV1rehLY](https://pastebin.com/pV1
 ---
  
  #### F. Explore  [http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_17tables.html](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards_examples_17tables.html)). Create your own local version of each example in directory `C:\public_html\syst10049\css_practice`, choosing an appropriate name. Explore the css rules and add your own observations, discoveries, and explanations as comments.
+ :new: [https://codepen.io/ebajcar/pen/peMBXP](https://codepen.io/ebajcar/pen/peMBXP) MDN example: table, combinators
  
  ---
  
@@ -113,3 +114,6 @@ HTML file to download:  [https://pastebin.com/pV1rehLY](https://pastebin.com/pV1
  
 ---
 > SYST10049 Web Development @ Sheridan College
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY2Mjk0NTQ1M119
+-->
