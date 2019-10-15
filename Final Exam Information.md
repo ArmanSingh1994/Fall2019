@@ -28,6 +28,7 @@ Consult and review Class Plan and Gradebook on SLATE for details.
 
 	>(10)  Design forms that use major controls and form handling logic. ✔
 
+5. Complete the exercises [https://www.w3schools.com/css/exercise.asp](https://www.w3schools.com/css/exercise.asp) if you have not already done so.  These are good review exercises. 
 ---
 ### Test format and rules
 
@@ -49,6 +50,6 @@ Read carefully:  [https://docs.google.com/document/d/1pSxc_7slfsgFUjItjh1nttCdhi
 > SYST10049 Web Development @ Sheridan College
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTE3OTA2MCwtMTE1MzQ1MDgyNywxND
-U5Nzc0NTc0XX0=
+eyJoaXN0b3J5IjpbMTYzMjE5NTQxNiwtMzM1MTc5MDYwLC0xMT
+UzNDUwODI3LDE0NTk3NzQ1NzRdfQ==
 -->
