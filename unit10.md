@@ -12,6 +12,7 @@ SYST10049 Web Development
 [https://www.w3schools.com/css/css_attribute_selectors.asp](https://www.w3schools.com/css/css_attribute_selectors.asp)
 
 
+
 ## Exercise Set 9
 Complete the following exercises [https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors1](https://www.w3schools.com/css/exercise.asp?filename=exercise_attribute_selectors1)
 -   Set the background-color to "lightblue" for elements with a "target" attribute.
@@ -19,6 +20,9 @@ Complete the following exercises [https://www.w3schools.com/css/exercise.asp?fil
 -   Set a border with the color "red", around elements with a "title" attribute containing the word "red".
 -   Set a border with the color "red", around elements with a "title" attribute ending with the word "flower" (not flowers).
 -   Set a border with the color "red", around elements with a "title" attribute containing the value "flow".
+
+ #### C. Explore [http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards09_forms.html](http://bajcar.dev.fast.sheridanc.on.ca/web10049/gridCards09_forms.html). Create your own local version of each example in directory `C:\public_html\syst10049\css_practice`, choosing an appropriate name. Explore the css rules and add your own observations, discoveries, and explanations as comments.
+
 
 ## Keep reading, exploring and cross-referencing
 
@@ -38,5 +42,5 @@ Complete the following exercises [https://www.w3schools.com/css/exercise.asp?fil
 ---
 > SYST10049 Web Development @ Sheridan College
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYxMTk4NzM0XX0=
+eyJoaXN0b3J5IjpbLTIxMDg0NDAzNDUsNjYxMTk4NzM0XX0=
 -->
