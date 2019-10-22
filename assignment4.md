@@ -35,14 +35,14 @@ public_html/
  4. The `game_rpsls.html` has the same structure, with the exception of the main content:
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot2.png)
 
-Check out similar solution, dl examples, in Unit 8.
+Check out similar solution, the dl examples, in Exercise D, in Unit 8.
 
 ---
 
 5. The `game_ttt.html` has the same structure, with the exception of the main content:
 ![enter image description here](http://bajcar.dev.fast.sheridanc.on.ca/project_assets/images10049/screenshot3.png)
 
-Check out similar solution,the table examples, in Unit 8.
+Check out similar solution, the table examples, in Exercise F, Unit 8.
 
 6. Complete and test the navigation among the three pages. Your navigation should show only the three links.
 7. To get full marks:
