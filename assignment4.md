@@ -44,7 +44,17 @@ more instructions coming soon...
 
 more instructions coming soon...
 
+6. Complete and test the navigation among the three pages. Your navigation should show only the three links.
+7. To get full marks:
 
+[2] All code (HTML and CSS) must be validated.
+[2] All files (HTML and CSS) must contain good comments, including updated prologue).  Deviations from instructions are well documented and explained.
+[2] Project must be published and correct URL provided in the dropbox.
+[2] Code is properly indented and formatted for easy reading.
+[1] Pages render closely to provided screenshots and contains provided assets.
+[1] Navigation is complete and tested.
+
+8. Ask questions and discuss on Piazza Q&A.
 
 ---
 > SYST10049 Web Development @ Sheridan College
