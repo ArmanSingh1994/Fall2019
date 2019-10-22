@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Fall2019
+Learn how to use standards-based Hyperlink Markup Language (HTML5) and Cascading Style Sheets (CSS3) to create websites that are laid out in a logical file structure. Students publish their websites to a dedicated student space with emphasis on website security. Students also learn how to create forms with various controls and types of form handlers. Studies incorporate the latest web technologies.
 
-You can use the [editor on GitHub](https://github.com/ebajcar/Fall2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Available material 
+* [Unit 1](https://github.com/ebajcar/Fall2019/blob/notes10049/unit1.md) - Web Development, Intro to HTML5
+* [Unit 2](https://github.com/ebajcar/Fall2019/blob/notes10049/unit2.md) - Web Development, HTML5, textual content
+* [Unit 3](https://github.com/ebajcar/Fall2019/blob/notes10049/unit3.md) - Publishing process, HTML5, embedded content, media
+* [Unit 4](https://github.com/ebajcar/Fall2019/blob/notes10049/unit4.md) - HTML5, DOM, structural element, tables, lists
+* [Unit 5](https://github.com/ebajcar/Fall2019/blob/notes10049/unit5.md) - HTML5, web forms interactive content
+* [Unit 6](https://github.com/ebajcar/Fall2019/blob/notes10049/unit6.md) - CSS3, syntax, selectors, properties, values, units
+* [Unit 7](https://github.com/ebajcar/Fall2019/blob/notes10049/unit7.md) - CSS3, Box model, positioning, floats
+* [Unit 8](https://github.com/ebajcar/Fall2019/blob/notes10049/unit8.md) - CSS3, layouts, styling lists and tables
+* [Unit 9](https://github.com/ebajcar/Fall2019/blob/notes10049/unit9.md) - CSS3, layouts, responsive design
+* [Unit 10](https://github.com/ebajcar/Fall2019/blob/notes10049/unit10.md) - CSS3, forms
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ebajcar/Fall2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
